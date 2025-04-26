@@ -1,0 +1,5 @@
+patronesdiseñorestaurante.Observer
+patronesdiseñorestaurante.Pedido
+patronesdiseñorestaurante.Cocinero
+patronesdiseñorestaurante.Encargado
+patronesdiseñorestaurante.Mesero
